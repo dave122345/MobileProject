@@ -1,2 +1,2 @@
-# CProject
+# MobileProject
 Project for college
