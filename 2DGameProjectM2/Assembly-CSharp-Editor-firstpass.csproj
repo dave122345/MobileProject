@@ -68,16 +68,16 @@
     <Compile Include="Assets\Standard Assets\Editor\Water\Water4\WaterBaseEditor.cs" />
     <Compile Include="Assets\Standard Assets\Editor\Water\Water4\WaterEditorUtility.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>F:/David/Documents/Unity Projects/2DGameProject/2DGameProjectM2/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>F:/David/Documents/Unity Projects/2DGameProjectM2/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>F:/David/Documents/Unity Projects/2DGameProject/2DGameProjectM2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>F:/David/Documents/Unity Projects/2DGameProjectM2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>F:/David/Documents/Unity Projects/2DGameProject/2DGameProjectM2/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>F:/David/Documents/Unity Projects/2DGameProjectM2/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>F:/David/Documents/Unity Projects/2DGameProject/2DGameProjectM2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>F:/David/Documents/Unity Projects/2DGameProjectM2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>F:/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -334,6 +334,12 @@
     <Reference Include="UnityEditor.OSXStandalone.Extensions">
       <HintPath>F:/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
     </Reference>
+    <Reference Include="Mini Profiler">
+      <HintPath>F:/David/Documents/Unity Projects/2DGameProjectM2/Assets/Mini Profiler/Mini Profiler.dll</HintPath>
+    </Reference>
+    <Reference Include="Mini Profiler Editor">
+      <HintPath>F:/David/Documents/Unity Projects/2DGameProjectM2/Assets/Mini Profiler/Editor/Mini Profiler Editor.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.Advertisements">
       <HintPath>C:/Users/David/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
@@ -351,12 +357,6 @@
     </Reference>
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
-    </Reference>
-    <Reference Include="Mini Profiler Editor">
-      <HintPath>F:/David/Documents/Unity Projects/2DGameProject/2DGameProjectM2/Assets/Mini Profiler/Editor/Mini Profiler Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Mini Profiler">
-      <HintPath>F:/David/Documents/Unity Projects/2DGameProject/2DGameProjectM2/Assets/Mini Profiler/Mini Profiler.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>F:/Unity/Editor/Data/MonoBleedingEdge/lib/mono/2.0-api/mscorlib.dll</HintPath>
